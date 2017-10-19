@@ -25,7 +25,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>XamarinForms</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.pronobia.XamarinDemoForms</string>
+	<string>com.pronobia.XamarinFormsDemo</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
